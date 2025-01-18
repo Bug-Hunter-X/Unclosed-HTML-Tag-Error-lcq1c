@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML error related to unclosed tags. The error can lead to unexpected rendering or parsing issues. The bug.html file contains the erroneous code, while bugSolution.html provides the corrected version.
